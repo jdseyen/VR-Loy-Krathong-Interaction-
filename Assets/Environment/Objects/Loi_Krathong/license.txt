@@ -1,0 +1,11 @@
+Model Information:
+* title:	Loi Krathong
+* source:	https://sketchfab.com/3d-models/loi-krathong-41a4c57daa024e6fa0cad9985121b88f
+* author:	Dr.Supoet (https://sketchfab.com/supoet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Loi Krathong" (https://sketchfab.com/3d-models/loi-krathong-41a4c57daa024e6fa0cad9985121b88f) by Dr.Supoet (https://sketchfab.com/supoet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

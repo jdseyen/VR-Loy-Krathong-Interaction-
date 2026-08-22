@@ -1,0 +1,2 @@
+Assets/Environment/Objects/Lanterns/animations/Default[[:space:]]Take.anim filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/SampleScene/LightingData.asset filter=lfs diff=lfs merge=lfs -text

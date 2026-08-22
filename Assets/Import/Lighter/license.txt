@@ -1,0 +1,8 @@
+Model Information:
+* title:	Lighter
+* source:	https://sketchfab.com/3d-models/lighter-436d91ca77af446da7c9ddd018c6b978
+* author:	ahmed.ezzat66 (https://sketchfab.com/ahmed.ezzat66)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
