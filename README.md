@@ -13,15 +13,15 @@
 
 ## About
 
-Experience the magic of Thailand's Loy Krathong festival in virtual reality. Release floating lanterns onto the water, interact with the environment, and celebrate this beautiful tradition 鈥?all without contributing physical waste to waterways.
+Experience the magic of Thailand's Loy Krathong festival in virtual reality. Release floating lanterns onto the water, interact with the environment, and celebrate this beautiful tradition -- all without contributing physical waste to waterways.
 
 ### Features
 
-- **Immersive VR Experience** 鈥?Full 360掳 virtual reality environment
-- **Hand Tracking** 鈥?Natural hand interactions using Oculus/Meta Quest controllers
-- **Interactive Objects** 鈥?Pick up and release krathongs onto the water
-- **Radio Integration** 鈥?Listen to traditional Loy Krathong music
-- **Dynamic Environment** 鈥?Day/night cycle with atmospheric lighting
+- **Immersive VR Experience** -- Full 360 degree virtual reality environment
+- **Hand Tracking** -- Natural hand interactions using Oculus/Meta Quest controllers
+- **Interactive Objects** -- Pick up and release krathongs onto the water
+- **Radio Integration** -- Listen to traditional Loy Krathong music
+- **Dynamic Environment** -- Day/night cycle with atmospheric lighting
 
 ---
 
@@ -50,7 +50,7 @@ cd VR-Loy-Krathong-Interaction-
 #### Option 2: Download ZIP
 
 1. Go to [GitHub Repository](https://github.com/jdseyen/VR-Loy-Krathong-Interaction-)
-2. Click **Code** 鈫?**Download ZIP**
+2. Click **Code** then **Download ZIP**
 3. Extract the ZIP file to your desired location
 
 ---
@@ -63,18 +63,18 @@ cd VR-Loy-Krathong-Interaction-
    - Download and install [Unity Hub](https://unity.com/download)
 
 2. **Install Unity Version**
-   - Open Unity Hub 鈫?**Installs** 鈫?**Install Editor**
+   - Open Unity Hub then go to **Installs** then **Install Editor**
    - Select version **2022.3.58f1** (LTS)
    - During installation, ensure **Android Build Support** is included (for Quest)
 
 3. **Add the Project**
-   - Open Unity Hub 鈫?**Projects** 鈫?**Open** 鈫?**Add project from disk**
+   - Open Unity Hub then go to **Projects** then **Open** then **Add project from disk**
    - Browse to the cloned/downloaded folder: `VR-Loy-Krathong-Interaction-`
    - Select the project folder and click **Open**
 
 4. **Wait for Unity to Load**
    - First launch may take 5-10 minutes as Unity regenerates the Library folder
-   - This is normal 鈥?the Library folder is not stored in the repo (it's auto-generated)
+   - This is normal -- the Library folder is not stored in the repo (it's auto-generated)
 
 5. **Open the Main Scene**
    - In Unity, go to `Assets/Scenes/`
@@ -82,12 +82,12 @@ cd VR-Loy-Krathong-Interaction-
 
 6. **Connect Your VR Headset**
    - Connect your Meta Quest via USB or ensure Air Link is configured
-   - In Unity: **Edit** 鈫?**Project Settings** 鈫?**XR Plug-in Management**
+   - In Unity: **Edit** then **Project Settings** then **XR Plug-in Management**
    - Ensure **Oculus** (or **OpenXR**) is checked
 
 7. **Enter Play Mode**
    - Put on your VR headset
-   - Click the **Play** button (鈻? at the top of Unity
+   - Click the **Play** button (triangle) at the top of Unity
    - Enjoy the experience!
 
 ---
@@ -96,27 +96,27 @@ cd VR-Loy-Krathong-Interaction-
 
 ```
 Assets/
-鈹溾攢鈹€ Editor/              # Unity editor scripts
-鈹溾攢鈹€ Environment/         # 3D environment assets
-鈹?  鈹溾攢鈹€ Day-Night Skyboxes/
-鈹?  鈹溾攢鈹€ Objects/
-鈹?  鈹溾攢鈹€ Plants and Trees/
-鈹?  鈹溾攢鈹€ Rocks/
-鈹?  鈹斺攢鈹€ Water/
-鈹溾攢鈹€ Import/              # Imported 3D models
-鈹溾攢鈹€ Materials/           # Unity materials
-鈹溾攢鈹€ Oculus Hands/        # Hand tracking assets
-鈹溾攢鈹€ Particles/           # Particle effects
-鈹溾攢鈹€ Prefabs/             # Reusable game objects
-鈹溾攢鈹€ Scenes/              # Unity scenes
-鈹溾攢鈹€ Scripts/             # Custom C# scripts
-鈹?  鈹溾攢鈹€ OnButtonPress.cs    # VR button interaction
-鈹?  鈹溾攢鈹€ RadioPlayer.cs      # Audio playback
-鈹?  鈹斺攢鈹€ ToggleRay.cs        # Ray/direct toggle
-鈹溾攢鈹€ Settings/            # XR settings
-鈹溾攢鈹€ Sound/               # Audio files
-鈹溾攢鈹€ Source Files/        # Source assets
-鈹斺攢鈹€ XR/                  # XR configuration
++-- Editor/              # Unity editor scripts
++-- Environment/         # 3D environment assets
+|   +-- Day-Night Skyboxes/
+|   +-- Objects/
+|   +-- Plants and Trees/
+|   +-- Rocks/
+|   +-- Water/
++-- Import/              # Imported 3D models
++-- Materials/           # Unity materials
++-- Oculus Hands/        # Hand tracking assets
++-- Particles/           # Particle effects
++-- Prefabs/             # Reusable game objects
++-- Scenes/              # Unity scenes
++-- Scripts/             # Custom C# scripts
+|   +-- OnButtonPress.cs    # VR button interaction
+|   +-- RadioPlayer.cs      # Audio playback
+|   +-- ToggleRay.cs        # Ray/direct toggle
++-- Settings/            # XR settings
++-- Sound/               # Audio files
++-- Source Files/        # Source assets
++-- XR/                  # XR configuration
 ```
 
 ---
@@ -176,5 +176,5 @@ This project is for educational and personal use.
 ---
 
 <p align="center">
-  <sub>Built with Unity & VR Technology</sub>
+  <sub>Built with Unity and VR Technology</sub>
 </p>
